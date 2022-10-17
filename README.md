@@ -27,7 +27,7 @@ aleo run premint aleo1y9mnptjc23wxtnr6gnjac0efu4fq859dsjk8mmryj3rg0feq0qzs8awmhn
 >>>
 ```
 
-```json
+```bash
 {
   owner: aleo1y9mnptjc23wxtnr6gnjac0efu4fq859dsjk8mmryj3rg0feq0qzs8awmhn.private,
   gates: 0u64.private,
